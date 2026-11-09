@@ -1,0 +1,14 @@
+{
+  "_comment": "Authoritative numeric policy. The agent may quote retrieved prose, but every enforced limit is read from THIS file. A poisoned PDF can change what the agent says; it cannot change what the code does.",
+  "version": "2026.09.1",
+  "self_service_refund_cap_usd": 250.0,
+  "session_refund_cap_usd": 500.0,
+  "return_window_days": 30,
+  "max_refund_fraction_of_order": 1.0,
+  "delay_voucher_usd": 10.0,
+  "standard_shipping_days": 7,
+  "min_auth_level_for_refund": "email_verified",
+  "min_auth_level_for_profile_update": "mfa",
+  "high_risk_score_threshold": 40,
+  "escalation_contact": "tier2-support@shopease.example.com"
+}

@@ -1,0 +1,121 @@
+order_id,customer_id,product,category,seller_id,item_count,order_date,delivery_date,status,carrier,amount_usd,currency,refund_status,payment_method,delivery_exception,warranty_expiry,is_gift
+O1002,C1002,4K Monitor,Electronics,SELLER-FIRSTPARTY,1,2026-05-11,2026-05-19,Delivered,DHL,329.99,USD,None,Credit Card,,2027-05-14,false
+O1004,C1004,Ultra-Thin Laptop,Electronics,SELLER-FIRSTPARTY,1,2026-05-17,2026-05-26,Delivered,DHL,1899.0,USD,None,Gift Card,,2028-05-15,false
+O1006,C1002,Bluetooth Speaker,Electronics,MKT-4417,1,2026-06-10,2026-06-19,Shipped,FedEx,79.99,USD,None,Gift Card,carrier_delay_5d,2027-06-14,false
+O1010,C1010,Desk Lamp,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-05-31,2026-06-05,Delivered,UPS,34.5,USD,Requested,Store Credit,,2026-12-02,false
+O1041,C1002,Espresso Machine,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-05-26,2026-06-02,Delivered,UPS,612.0,USD,Partial,PayPal,,2028-05-22,false
+O1063,C1019,Smartphone,Electronics,SELLER-FIRSTPARTY,1,2026-06-02,2026-06-10,Delivered,USPS,1249.0,USD,None,PayPal,,2028-05-30,false
+O1071,C1027,Robot Vacuum,Home & Kitchen,MKT-9310,1,2026-06-15,2026-06-24,Delivered,FedEx,449.0,USD,None,Store Credit,,2028-06-13,false
+O1077,C1033,Smartwatch,Electronics,SELLER-FIRSTPARTY,1,2026-05-01,2026-05-05,Delivered,UPS,229.99,USD,None,Debit Card,,2027-04-30,false
+O1082,C1002,Trail Camera,Sports & Outdoors,MKT-8802,1,2026-06-28,2026-07-03,Delivered,FedEx,219.0,USD,None,Gift Card,,2027-06-28,false
+O1090,C1002,Standing Desk,Furniture,MKT-9310,1,2026-07-02,2026-07-11,Delivered,FedEx,789.0,USD,Partial,Credit Card,,2031-06-15,false
+O1100,C1004,Desk Lamp,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-04-01,2026-04-04,Shipped,DHL,34.5,USD,None,Gift Card,,2026-10-01,false
+O1101,C1007,Smartphone,Electronics,SELLER-FIRSTPARTY,1,2026-08-21,2026-08-30,Delivered,DHL,1249.0,USD,Issued,Store Credit,,2028-08-19,true
+O1102,C1034,Gaming Mouse,Electronics,MKT-4417,1,2026-04-30,2026-05-07,Shipped,FedEx,49.99,USD,None,Gift Card,,2027-05-02,false
+O1103,C1039,4K Monitor,Electronics,SELLER-FIRSTPARTY,1,2026-04-27,2026-05-05,Delivered,USPS,329.99,USD,None,Debit Card,,2027-04-30,true
+O1104,C1036,Desk Lamp,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-08-27,2026-09-04,Cancelled,FedEx,34.5,USD,None,Store Credit,,2027-03-03,true
+O1105,C1038,Yoga Mat,Sports & Outdoors,MKT-4417,1,2026-07-17,2026-07-25,Delivered,UPS,24.99,USD,None,Credit Card,,,false
+O1106,C1035,Desk Lamp,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-05-31,2026-06-08,Delivered,USPS,34.5,USD,None,Gift Card,,2026-12-05,false
+O1107,C1034,Desk Lamp,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-06-25,2026-06-30,Delivered,DHL,34.5,USD,None,PayPal,,2026-12-27,false
+O1108,C1027,Yoga Mat,Sports & Outdoors,MKT-4417,1,2026-07-07,2026-07-13,Shipped,FedEx,24.99,USD,None,Gift Card,,,false
+O1109,C1032,Trail Camera,Sports & Outdoors,MKT-8802,1,2026-07-26,2026-07-31,Shipped,DHL,219.0,USD,None,Debit Card,,2027-07-26,false
+O1110,C1036,Air Fryer,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-08-20,2026-08-28,Processing,FedEx,119.99,USD,None,Gift Card,,2027-08-23,false
+O1111,C1018,Electric Kettle,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-04-11,2026-04-18,Shipped,FedEx,38.5,USD,None,Gift Card,,2027-04-13,false
+O1112,C1040,Desk Lamp,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-06-06,2026-06-13,Delivered,USPS,34.5,USD,None,PayPal,,2026-12-10,false
+O1113,C1021,Mechanical Keyboard,Electronics,MKT-4417,1,2026-05-04,2026-05-12,Shipped,FedEx,159.0,USD,None,PayPal,,2027-05-07,false
+O1114,C1037,Hiking Boots,Apparel,SELLER-FIRSTPARTY,1,2026-06-17,2026-06-24,Delivered,FedEx,134.0,USD,Partial,Credit Card,,,false
+O1115,C1012,Noise-Cancelling Headset,Electronics,SELLER-FIRSTPARTY,1,2026-05-09,2026-05-14,Processing,USPS,349.0,USD,None,Store Credit,,2028-05-03,false
+O1116,C1024,Espresso Machine,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-07-30,2026-08-06,Delivered,DHL,612.0,USD,Issued,Gift Card,,2028-07-26,false
+O1117,C1003,Ultra-Thin Laptop,Electronics,SELLER-FIRSTPARTY,1,2026-05-29,2026-06-02,Delivered,UPS,1899.0,USD,None,PayPal,address_undeliverable,2028-05-22,false
+O1118,C1038,Hiking Boots,Apparel,SELLER-FIRSTPARTY,1,2026-08-19,2026-08-26,Shipped,USPS,134.0,USD,None,Gift Card,,,true
+O1119,C1038,Mechanical Keyboard,Electronics,MKT-4417,1,2026-08-12,2026-08-18,Delivered,FedEx,159.0,USD,None,Credit Card,,2027-08-13,false
+O1120,C1022,Ultra-Thin Laptop,Electronics,SELLER-FIRSTPARTY,1,2026-08-03,2026-08-11,Shipped,DHL,1899.0,USD,None,PayPal,,2028-07-31,false
+O1121,C1033,Ultra-Thin Laptop,Electronics,SELLER-FIRSTPARTY,1,2026-07-17,2026-07-20,Delivered,UPS,1899.0,USD,None,PayPal,,2028-07-09,false
+O1122,C1002,Espresso Machine,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-04-09,2026-04-14,Delivered,USPS,612.0,USD,None,PayPal,,2028-04-03,false
+O1123,C1020,Noise-Cancelling Headset,Electronics,SELLER-FIRSTPARTY,1,2026-04-30,2026-05-06,Delivered,DHL,349.0,USD,Issued,Debit Card,,2028-04-25,false
+O1124,C1033,Wireless Earbuds,Electronics,SELLER-FIRSTPARTY,1,2026-06-20,2026-06-23,Delivered,DHL,59.99,USD,None,PayPal,,2027-06-18,false
+O1125,C1027,Smartphone,Electronics,SELLER-FIRSTPARTY,1,2026-08-23,2026-08-26,Delivered,UPS,1249.0,USD,None,Gift Card,damaged_in_transit,2028-08-15,false
+O1126,C1034,Electric Kettle,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-08-06,2026-08-14,Shipped,DHL,38.5,USD,None,PayPal,,2027-08-09,false
+O1127,C1008,4K Monitor,Electronics,SELLER-FIRSTPARTY,1,2026-04-08,2026-04-15,Shipped,DHL,329.99,USD,None,PayPal,,2027-04-10,true
+O1128,C1026,Hiking Boots,Apparel,SELLER-FIRSTPARTY,1,2026-07-24,2026-07-27,Shipped,USPS,134.0,USD,None,PayPal,,,false
+O1129,C1022,Standing Desk,Furniture,MKT-9310,1,2026-06-01,2026-06-07,Delivered,USPS,789.0,USD,None,Gift Card,,2031-05-12,false
+O1130,C1009,Yoga Mat,Sports & Outdoors,MKT-4417,1,2026-08-18,2026-08-21,Shipped,USPS,24.99,USD,None,PayPal,damaged_in_transit,,false
+O1131,C1014,Wireless Earbuds,Electronics,SELLER-FIRSTPARTY,1,2026-06-19,2026-06-25,Delivered,FedEx,59.99,USD,None,Debit Card,,2027-06-20,false
+O1132,C1031,Hiking Boots,Apparel,SELLER-FIRSTPARTY,1,2026-06-19,2026-06-24,Delivered,UPS,134.0,USD,None,Store Credit,,,false
+O1133,C1005,Yoga Mat,Sports & Outdoors,MKT-4417,1,2026-05-24,2026-06-02,Cancelled,UPS,24.99,USD,None,Gift Card,,,false
+O1134,C1030,Espresso Machine,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-04-04,2026-04-10,Delivered,UPS,612.0,USD,None,Store Credit,,2028-03-30,false
+O1135,C1017,Blender,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-05-10,2026-05-13,Shipped,FedEx,64.99,USD,None,Gift Card,,2027-05-08,false
+O1136,C1020,Smartwatch,Electronics,SELLER-FIRSTPARTY,1,2026-08-05,2026-08-13,Processing,DHL,229.99,USD,None,Debit Card,,2027-08-08,false
+O1137,C1009,Wireless Earbuds,Electronics,SELLER-FIRSTPARTY,1,2026-06-13,2026-06-22,Processing,USPS,59.99,USD,None,PayPal,,2027-06-17,false
+O1138,C1028,Air Fryer,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-06-10,2026-06-19,Delivered,FedEx,119.99,USD,Issued,Store Credit,,2027-06-14,false
+O1139,C1015,Office Chair,Furniture,MKT-9310,1,2026-04-23,2026-05-01,Delivered,UPS,189.0,USD,None,Debit Card,,2028-04-20,false
+O1140,C1030,4K Monitor,Electronics,SELLER-FIRSTPARTY,1,2026-07-07,2026-07-15,Cancelled,DHL,329.99,USD,None,PayPal,,2027-07-10,false
+O1141,C1006,Bluetooth Speaker,Electronics,MKT-4417,1,2026-06-03,2026-06-12,Delivered,DHL,79.99,USD,Issued,Gift Card,,2027-06-07,false
+O1142,C1006,Wireless Earbuds,Electronics,SELLER-FIRSTPARTY,1,2026-05-26,2026-06-04,Delivered,UPS,59.99,USD,Issued,Debit Card,,2027-05-30,false
+O1143,C1009,Desk Lamp,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-05-02,2026-05-11,Delivered,DHL,34.5,USD,Partial,Debit Card,,2026-11-07,false
+O1144,C1007,Mechanical Keyboard,Electronics,MKT-4417,1,2026-06-28,2026-07-04,Delivered,USPS,159.0,USD,None,Gift Card,,2027-06-29,false
+O1145,C1025,Yoga Mat,Sports & Outdoors,MKT-4417,1,2026-08-25,2026-08-30,Delivered,USPS,24.99,USD,Issued,PayPal,,,false
+O1146,C1021,Wireless Earbuds,Electronics,SELLER-FIRSTPARTY,1,2026-08-06,2026-08-13,Shipped,DHL,59.99,USD,None,Debit Card,,2027-08-08,false
+O1147,C1031,Cast Iron Skillet,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-08-22,2026-08-29,Shipped,USPS,42.0,USD,None,Store Credit,,,false
+O1148,C1004,Yoga Mat,Sports & Outdoors,MKT-4417,1,2026-04-03,2026-04-08,Processing,FedEx,24.99,USD,None,PayPal,damaged_in_transit,,false
+O1149,C1005,Winter Jacket,Apparel,MKT-8802,1,2026-06-18,2026-06-23,Delivered,DHL,149.0,USD,Partial,Gift Card,,,false
+O1150,C1030,Winter Jacket,Apparel,MKT-8802,1,2026-05-24,2026-05-28,Delivered,FedEx,149.0,USD,Partial,Credit Card,,,false
+O1151,C1013,Smartwatch,Electronics,SELLER-FIRSTPARTY,1,2026-06-21,2026-06-27,Delivered,USPS,229.99,USD,None,PayPal,,2027-06-22,false
+O1152,C1040,Cast Iron Skillet,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-08-18,2026-08-23,Delivered,UPS,42.0,USD,None,Store Credit,,,false
+O1153,C1011,Bluetooth Speaker,Electronics,MKT-4417,1,2026-08-10,2026-08-17,Shipped,USPS,79.99,USD,None,Store Credit,,2027-08-12,false
+O1154,C1015,4K Monitor,Electronics,SELLER-FIRSTPARTY,1,2026-05-12,2026-05-19,Delivered,USPS,329.99,USD,Issued,Gift Card,,2027-05-14,false
+O1155,C1017,Yoga Mat,Sports & Outdoors,MKT-4417,1,2026-04-11,2026-04-19,Shipped,DHL,24.99,USD,None,Store Credit,,,true
+O1156,C1029,Backpack,Accessories,MKT-8802,1,2026-07-14,2026-07-23,Shipped,FedEx,54.0,USD,None,Store Credit,,,false
+O1157,C1009,Winter Jacket,Apparel,MKT-8802,1,2026-06-24,2026-06-29,Delivered,UPS,149.0,USD,Partial,Store Credit,,,false
+O1158,C1023,Air Fryer,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-08-03,2026-08-08,Delivered,USPS,119.99,USD,Partial,PayPal,,2027-08-03,true
+O1159,C1035,Electric Kettle,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-05-29,2026-06-05,Delivered,UPS,38.5,USD,Issued,Debit Card,,2027-05-31,false
+O1160,C1028,Winter Jacket,Apparel,MKT-8802,1,2026-05-14,2026-05-17,Delivered,DHL,149.0,USD,Partial,Store Credit,,,false
+O1161,C1036,Desk Lamp,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-05-06,2026-05-11,Delivered,USPS,34.5,USD,Issued,Debit Card,,2026-11-07,false
+O1162,C1003,Electric Kettle,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-07-23,2026-07-27,Delivered,FedEx,38.5,USD,None,Debit Card,,2027-07-22,false
+O1163,C1023,Cast Iron Skillet,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-08-21,2026-08-30,Shipped,UPS,42.0,USD,None,Gift Card,,,false
+O1164,C1002,4K Monitor,Electronics,SELLER-FIRSTPARTY,1,2026-08-20,2026-08-24,Delivered,UPS,329.99,USD,Issued,Credit Card,,2027-08-19,false
+O1165,C1011,Gaming Mouse,Electronics,MKT-4417,1,2026-05-08,2026-05-16,Delivered,DHL,49.99,USD,Partial,Debit Card,,2027-05-11,false
+O1166,C1017,Smartphone,Electronics,SELLER-FIRSTPARTY,1,2026-07-03,2026-07-07,Delivered,FedEx,1249.0,USD,Partial,PayPal,,2028-06-26,false
+O1167,C1011,Running Shoes,Apparel,SELLER-FIRSTPARTY,1,2026-06-19,2026-06-24,Processing,DHL,89.5,USD,None,Debit Card,damaged_in_transit,,false
+O1168,C1033,Cast Iron Skillet,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-07-05,2026-07-08,Delivered,USPS,42.0,USD,None,Credit Card,address_undeliverable,,false
+O1169,C1007,Trail Camera,Sports & Outdoors,MKT-8802,1,2026-06-13,2026-06-19,Delivered,UPS,219.0,USD,None,Store Credit,,2027-06-14,false
+O1170,C1030,Running Shoes,Apparel,SELLER-FIRSTPARTY,1,2026-07-29,2026-08-01,Delivered,USPS,89.5,USD,None,Gift Card,,,false
+O1171,C1015,Espresso Machine,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-06-14,2026-06-19,Delivered,USPS,612.0,USD,Issued,Gift Card,,2028-06-08,false
+O1172,C1040,Wireless Earbuds,Electronics,SELLER-FIRSTPARTY,1,2026-04-18,2026-04-23,Delivered,UPS,59.99,USD,None,Store Credit,,2027-04-18,false
+O1173,C1033,Blender,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-05-03,2026-05-08,Delivered,UPS,64.99,USD,Partial,Credit Card,,2027-05-03,false
+O1174,C1032,Yoga Mat,Sports & Outdoors,MKT-4417,1,2026-05-28,2026-06-06,Delivered,FedEx,24.99,USD,Partial,PayPal,damaged_in_transit,,true
+O1175,C1030,Ultra-Thin Laptop,Electronics,SELLER-FIRSTPARTY,1,2026-07-15,2026-07-22,Shipped,USPS,1899.0,USD,None,Debit Card,,2028-07-11,false
+O1176,C1003,Robot Vacuum,Home & Kitchen,MKT-9310,1,2026-04-03,2026-04-07,Delivered,UPS,449.0,USD,None,Credit Card,,2028-03-27,false
+O1177,C1039,Air Fryer,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-04-03,2026-04-10,Cancelled,USPS,119.99,USD,None,PayPal,,2027-04-05,false
+O1178,C1018,Hiking Boots,Apparel,SELLER-FIRSTPARTY,1,2026-08-23,2026-08-30,Delivered,UPS,134.0,USD,None,Debit Card,address_undeliverable,,false
+O1179,C1013,Backpack,Accessories,MKT-8802,1,2026-06-13,2026-06-20,Delivered,USPS,54.0,USD,Partial,Store Credit,,,false
+O1180,C1013,Blender,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-08-20,2026-08-26,Delivered,DHL,64.99,USD,Partial,Debit Card,address_undeliverable,2027-08-21,false
+O1181,C1010,Trail Camera,Sports & Outdoors,MKT-8802,1,2026-07-06,2026-07-10,Delivered,UPS,219.0,USD,Partial,Gift Card,,2027-07-05,false
+O1182,C1023,Mechanical Keyboard,Electronics,MKT-4417,1,2026-05-28,2026-06-03,Delivered,FedEx,159.0,USD,None,Store Credit,carrier_delay_5d,2027-05-29,false
+O1183,C1004,Desk Lamp,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-06-25,2026-06-29,Processing,USPS,34.5,USD,None,Debit Card,,2026-12-26,false
+O1184,C1030,Smartphone,Electronics,SELLER-FIRSTPARTY,1,2026-05-11,2026-05-19,Shipped,UPS,1249.0,USD,None,Gift Card,,2028-05-08,false
+O1185,C1020,Standing Desk,Furniture,MKT-9310,1,2026-04-22,2026-04-27,Delivered,USPS,789.0,USD,Issued,Credit Card,,2031-04-01,false
+O1186,C1031,Electric Kettle,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-05-18,2026-05-22,Delivered,UPS,38.5,USD,None,Debit Card,,2027-05-17,false
+O1187,C1024,Noise-Cancelling Headset,Electronics,SELLER-FIRSTPARTY,1,2026-08-14,2026-08-21,Delivered,FedEx,349.0,USD,Partial,Credit Card,,2028-08-10,false
+O1188,C1026,Running Shoes,Apparel,SELLER-FIRSTPARTY,1,2026-05-19,2026-05-27,Delivered,USPS,89.5,USD,Partial,Debit Card,,,false
+O1189,C1028,Smartphone,Electronics,SELLER-FIRSTPARTY,1,2026-05-27,2026-05-30,Cancelled,USPS,1249.0,USD,None,Gift Card,,2028-05-19,false
+O1190,C1027,Bluetooth Speaker,Electronics,MKT-4417,1,2026-04-13,2026-04-20,Delivered,UPS,79.99,USD,None,Gift Card,,2027-04-15,false
+O1191,C1004,Noise-Cancelling Headset,Electronics,SELLER-FIRSTPARTY,1,2026-05-10,2026-05-14,Delivered,UPS,349.0,USD,None,PayPal,,2028-05-03,false
+O1192,C1014,Desk Lamp,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-05-30,2026-06-04,Cancelled,UPS,34.5,USD,None,Gift Card,,2026-12-01,false
+O1193,C1023,Yoga Mat,Sports & Outdoors,MKT-4417,1,2026-07-15,2026-07-20,Processing,DHL,24.99,USD,None,Store Credit,,,false
+O1194,C1002,Cast Iron Skillet,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-07-16,2026-07-25,Delivered,USPS,42.0,USD,Issued,Store Credit,,,false
+O1195,C1036,Ultra-Thin Laptop,Electronics,SELLER-FIRSTPARTY,1,2026-06-24,2026-06-29,Shipped,DHL,1899.0,USD,None,Store Credit,,2028-06-18,false
+O1196,C1026,Wireless Earbuds,Electronics,SELLER-FIRSTPARTY,1,2026-07-02,2026-07-06,Shipped,UPS,59.99,USD,None,PayPal,,2027-07-01,false
+O1197,C1021,Noise-Cancelling Headset,Electronics,SELLER-FIRSTPARTY,1,2026-06-19,2026-06-24,Delivered,UPS,349.0,USD,None,Store Credit,address_undeliverable,2028-06-13,false
+O1198,C1025,Air Fryer,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-04-24,2026-04-28,Delivered,USPS,119.99,USD,Issued,PayPal,,2027-04-23,false
+O1199,C1008,Smartphone,Electronics,SELLER-FIRSTPARTY,1,2026-06-09,2026-06-16,Delivered,UPS,1249.0,USD,None,Store Credit,,2028-06-05,false
+O1200,C1039,4K Monitor,Electronics,SELLER-FIRSTPARTY,1,2026-07-27,2026-08-04,Delivered,USPS,329.99,USD,None,Credit Card,address_undeliverable,2027-07-30,false
+O1201,C1002,4K Monitor,Electronics,SELLER-FIRSTPARTY,1,2026-08-26,2026-08-30,Shipped,USPS,329.99,USD,None,Debit Card,,2027-08-25,false
+O1202,C1002,4K Monitor,Electronics,SELLER-FIRSTPARTY,1,2026-06-30,2026-07-04,Delivered,UPS,329.99,USD,Partial,Gift Card,,2027-06-29,true
+O1203,C1037,Yoga Mat,Sports & Outdoors,MKT-4417,1,2026-05-17,2026-05-22,Processing,FedEx,24.99,USD,None,Gift Card,,,true
+O1204,C1037,Trail Camera,Sports & Outdoors,MKT-8802,1,2026-06-14,2026-06-19,Delivered,USPS,219.0,USD,Partial,Store Credit,,2027-06-14,false
+O1205,C1012,Blender,Home & Kitchen,SELLER-FIRSTPARTY,1,2026-06-14,2026-06-22,Delivered,FedEx,64.99,USD,None,Gift Card,,2027-06-17,false
+O1206,C1003,Gaming Mouse,Electronics,MKT-4417,1,2026-07-29,2026-08-01,Cancelled,DHL,49.99,USD,None,Debit Card,,2027-07-27,false
+O1207,C1001,Yoga Mat,Sports & Outdoors,MKT-4417,1,2026-05-30,2026-06-03,Cancelled,UPS,24.99,USD,None,Gift Card,,,false
+O1208,C1005,Office Chair,Furniture,MKT-9310,1,2026-08-20,2026-08-27,Delivered,FedEx,189.0,USD,None,PayPal,carrier_delay_5d,2028-08-16,false
+O1209,C1023,Smartphone,Electronics,SELLER-FIRSTPARTY,1,2026-04-02,2026-04-11,Delivered,UPS,1249.0,USD,None,Debit Card,,2028-03-31,false

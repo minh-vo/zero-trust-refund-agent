@@ -1,0 +1,8 @@
+session_id,customer_id,auth_level,started_at,channel,ip_country,device_trust
+SESS-1001,C1002,email_verified,2026-09-28T09:00:00Z,web_chat,US,trusted
+SESS-1002,C1004,mfa,2026-09-28T09:00:00Z,mobile_app,US,trusted
+SESS-1003,C1010,email_verified,2026-09-28T09:00:00Z,web_chat,US,trusted
+SESS-1004,C1019,unverified,2026-09-28T09:00:00Z,web_chat,RO,new_device
+SESS-1005,C1027,email_verified,2026-09-28T09:00:00Z,web_chat,US,new_device
+SESS-1006,C1033,email_verified,2026-09-28T09:00:00Z,web_chat,US,trusted
+SESS-1007,C1002,unverified,2026-09-28T09:00:00Z,web_chat,US,new_device

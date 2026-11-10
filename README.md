@@ -1,6 +1,6 @@
 # ShopEase Secure Refund Agent
 
-A customer-support agent that can issue refunds, change shipping addresses and look up orders, built so that fooling the model is not enough to lose money.
+A LangGraph support agent on Claude with refund, address-change and order-lookup tools. The model only proposes tool calls; every call goes through server-side checks before anything runs: session-scoped authorization, a hash-pinned policy corpus, an atomic SQLite refund ledger, human approval that fails closed, and a hash-chained audit log.
 
 I started this in a class lab ("Securing Agentic AI"). We took a LangGraph support agent with the usual guardrails, broke it seven different ways, and then rebuilt it with Zero-Trust controls. This repo is my rebuild as a proper Python package with tests. It also fixes one hole the class version left open: two refunds that arrive at the same moment could both pass the budget check and over-refund an order. The details are below under [The improvement](#the-improvement-an-atomic-refund-ledger).
 
